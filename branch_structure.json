@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "victor-gf"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "victor-gf": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "victor-gf"
+  ]
+}
